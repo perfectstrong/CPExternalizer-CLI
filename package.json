@@ -1,0 +1,34 @@
+{
+  "name": "cpexternalizer-cli",
+  "version": "1.0.0",
+  "description": "This is the CLI version of [CPExternalizer](https://github.com/perfectstrong/CPExternalizer).",
+  "main": "main.js",
+  "scripts": {},
+  "keywords": [
+    "Adobe Captivate",
+    "HTML5",
+    "javascript",
+    "refractor",
+    "cli"
+  ],
+  "bugs": {
+    "url": "https://github.com/perfectstrong/CPExternalizer-CLI/issues",
+    "email": "quoc_nhat_han.tran@utt.fr"
+  },
+  "author": {
+    "name": "TRAN Quoc Nhat Han",
+    "email": "quoc_nhat_han.tran@utt.fr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/perfectstrong/CPExternalizer-CLI.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "command-line-args": "^5.0.1",
+    "command-line-commands": "^2.0.1",
+    "command-line-usage": "^4.1.0",
+    "cpexternalizer": "^1.0.0",
+    "sander": "^0.6.0"
+  }
+}
