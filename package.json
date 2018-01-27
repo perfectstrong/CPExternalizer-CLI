@@ -28,7 +28,6 @@
     "command-line-args": "^5.0.1",
     "command-line-commands": "^2.0.1",
     "command-line-usage": "^4.1.0",
-    "cpexternalizer": "^1.0.0",
-    "sander": "^0.6.0"
+    "cpexternalizer": "^1.0.0"
   }
 }
